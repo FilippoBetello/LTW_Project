@@ -1,5 +1,5 @@
 # :man_technologist::woman_technologist::man_technologist:LTW Project
-Group project for the course [web languages and technologies](http://www.diag.uniroma1.it/rosati/ltw/) (only in Italian sorry) 2021 edition, Sapienza Univerisity of Rome.<br>
+Group project for the course [web languages and technologies](http://www.diag.uniroma1.it/rosati/ltw/) (only in Italian sorry) 2021 edition, Sapienza University of Rome.<br>
 Developed with ***@JacopoBrunetti*** and ***@MichelaCattabriga***
 ## 📜Short Description
 The goal of our project is to create a website that collects unusual places in Rome and in the Lazio region. In fact we divide the website into three categories: **panoramic spots**, **unusual places** and **outside Rome**. In every page of a category there is a map with markes on the places: we developed it using leaflet. Furthermore, we add the possibility to write review about a place and send us suggestions about new places.<br>
